@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/is0_0atr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="is0_0atr" height="30" width="40" /></a>
 <a href="https://fb.com/islam alattar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="islam alattar" height="30" width="40" /></a>
-<a href="https://instagram.com/islam._.alattar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islam._.alattar" height="30" width="40" /></a>
+<a href="https://instagram.com/islam_alattar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islam._.alattar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
