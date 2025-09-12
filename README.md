@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Islam Alattar</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - ⚡ Fun fact 
-**I think I am funny 🥸🤓**
+**I think i am funny 🥸🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
