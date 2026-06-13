@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam Alattar</h1>
 
-<h3 align="center">AI Engineer | Data Scientist | Computer Vision Engineer</h3>
+<h3 align="center">AI Engineer | Computer Vision · Deep Learning · Machine Learning · Data Science</h3>
 
 <p align="center">
 ﴿ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا ﴾
