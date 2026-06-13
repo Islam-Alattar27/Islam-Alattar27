@@ -13,7 +13,6 @@
 - 🎓 AI Engineer passionate about Deep Learning & Computer Vision
 - 🤖 Building AI systems using Python, TensorFlow, Keras, OpenCV, and Machine Learning
 - 📊 Interested in Data Science and MLOps
-- 🔭 Currently working on Computer Vision and Accident Detection projects
 - 🌱 Continuously learning and improving my AI skills
 
 ### 🌐 Connect With Me
